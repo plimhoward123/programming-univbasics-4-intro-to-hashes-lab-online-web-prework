@@ -12,10 +12,11 @@ end
 def pioneer
   hshp = {name: "Grace Hopper"}
   return hshp
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
 end
 
 def id_generator
+  hshi = {id: 30}
+  return hshi
   # return a hash with a key :id assigned to positive integer
 end
 
