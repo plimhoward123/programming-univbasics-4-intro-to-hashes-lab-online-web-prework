@@ -27,8 +27,7 @@ end
 
 def read_from_hash(hash, key)
   rhsh = {hash => key}
-  i = 'hash'
-  return rhsh[i.to_sym]
+  return rhsh
 end
 
 def update_counting_hash(hash, key)
