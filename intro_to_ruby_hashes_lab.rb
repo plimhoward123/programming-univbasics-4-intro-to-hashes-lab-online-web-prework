@@ -27,7 +27,8 @@ end
 
 def read_from_hash(hash, key)
   rhsh = {hash => key}
-  return rhsh[:hash]
+  i = 'hash'
+  return rhsh[i]
 end
 
 def update_counting_hash(hash, key)
