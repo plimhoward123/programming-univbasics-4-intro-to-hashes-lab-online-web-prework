@@ -5,7 +5,7 @@ end
 
 def my_hash
   myhsh = {
-    name: "plim",}
+    name: "plim"}
   return myhsh
 end
 
