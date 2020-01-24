@@ -4,7 +4,7 @@ def new_hash
 end
 
 def my_hash
-  myhsh = [name => "plim",]
+  myhsh = {name => "plim",}
   return myhsh
 end
 
